@@ -1,0 +1,14 @@
+/home/ubuntu/Desktop/DotNet/bin/Debug/net8.0/DotNet
+/home/ubuntu/Desktop/DotNet/bin/Debug/net8.0/DotNet.deps.json
+/home/ubuntu/Desktop/DotNet/bin/Debug/net8.0/DotNet.runtimeconfig.json
+/home/ubuntu/Desktop/DotNet/bin/Debug/net8.0/DotNet.dll
+/home/ubuntu/Desktop/DotNet/bin/Debug/net8.0/DotNet.pdb
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfo.cs
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.dll
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/refint/DotNet.dll
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.pdb
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/ref/DotNet.dll
