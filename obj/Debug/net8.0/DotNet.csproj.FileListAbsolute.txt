@@ -12,3 +12,4 @@
 /home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.pdb
 /home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
 /home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/ref/DotNet.dll
+/home/ubuntu/Desktop/DotNet/obj/Debug/net8.0/DotNet.sourcelink.json
